@@ -1,0 +1,7 @@
+class helloword
+{
+public static voidmain(string arg[])
+{
+system.out.println("hello aruna");
+}
+}
